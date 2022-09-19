@@ -1,0 +1,15 @@
+C:\Users\Comp\Desktop\dz9\vsdz\bin\Debug\net6.0\vsdz.exe
+C:\Users\Comp\Desktop\dz9\vsdz\bin\Debug\net6.0\vsdz.deps.json
+C:\Users\Comp\Desktop\dz9\vsdz\bin\Debug\net6.0\vsdz.runtimeconfig.json
+C:\Users\Comp\Desktop\dz9\vsdz\bin\Debug\net6.0\vsdz.dll
+C:\Users\Comp\Desktop\dz9\vsdz\bin\Debug\net6.0\vsdz.pdb
+C:\Users\Comp\Desktop\dz9\vsdz\obj\Debug\net6.0\vsdz.csproj.AssemblyReference.cache
+C:\Users\Comp\Desktop\dz9\vsdz\obj\Debug\net6.0\vsdz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\Desktop\dz9\vsdz\obj\Debug\net6.0\vsdz.AssemblyInfoInputs.cache
+C:\Users\Comp\Desktop\dz9\vsdz\obj\Debug\net6.0\vsdz.AssemblyInfo.cs
+C:\Users\Comp\Desktop\dz9\vsdz\obj\Debug\net6.0\vsdz.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\dz9\vsdz\obj\Debug\net6.0\vsdz.dll
+C:\Users\Comp\Desktop\dz9\vsdz\obj\Debug\net6.0\refint\vsdz.dll
+C:\Users\Comp\Desktop\dz9\vsdz\obj\Debug\net6.0\vsdz.pdb
+C:\Users\Comp\Desktop\dz9\vsdz\obj\Debug\net6.0\vsdz.genruntimeconfig.cache
+C:\Users\Comp\Desktop\dz9\vsdz\obj\Debug\net6.0\ref\vsdz.dll
